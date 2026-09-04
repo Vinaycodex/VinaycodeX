@@ -1,4 +1,4 @@
-# 👋 Hey I'm Prajwal
+# 👋 Hey I'm Vinay
 
 🤖 AI Systems Engineer & LLM Evaluator
 ⚡ Building autonomous AI agents, automation systems, and local AI tools
